@@ -1,6 +1,5 @@
 
-<img width="324" height="442" alt="image" src= https://inscripciones.unl.edu.ec/images/logo_unl.png />
-
+<img width="393" height="145" alt="image" src="https://github.com/user-attachments/assets/9e79ce4f-16f3-42eb-81c6-0460a91550f5" />
 
 # PORTAFOLIO DIGITAL DE APRENDIZAJE – TEORÍA DE LA PROGRAMACIÓN.
 
