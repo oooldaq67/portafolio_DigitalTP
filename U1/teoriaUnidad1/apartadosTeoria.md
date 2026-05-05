@@ -1,10 +1,10 @@
 
-[ALGORITMOS](U1/teoriaUnidad1/Algoritmos.md)
+[ALGORITMOS](teoriaUnidad1/Algoritmos.md)
 
-[PSEUDO CÓDIGO](U1/teoriaUnidad1/pseudoCódigo.md)
+[PSEUDO CÓDIGO](teoriaUnidad1/pseudoCódigo.md)
 
-[DIAGRAMA DE FLUJO](U1/teoriaUnidad1/diagramadeFlujo.md)
+[DIAGRAMA DE FLUJO](teoriaUnidad1/diagramadeFlujo.md)
 
-[PRUBA DE ESCRITORIO](U1/teoriaUnidad1/pruebadeEscritorio.md)
+[PRUBA DE ESCRITORIO](teoriaUnidad1/pruebadeEscritorio.md)
 
-[LENGUAJES DE PROGRAMACIÓN](U1/teoriaUnidad1/lenguajesdeProgramación.md)
+[LENGUAJES DE PROGRAMACIÓN](teoriaUnidad1/lenguajesdeProgramación.md)
