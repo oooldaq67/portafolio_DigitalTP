@@ -5,17 +5,15 @@
 
 ---
 
-## CARÁTULA
+## DATOS INFORMATIVOS
 
-| | |
-|---|---|
-| **Institución** | Universidad Nacional de Loja |
-| **Carrera** | Ingeniería en Ciencias de la Computación |
-| **Asignatura** | Programación en C++ |
-| **Ciclo y Paralelo** | 1er Ciclo — Paralelo A |
-| **Período Académico** | Abril — Agosto 2026 |
-| **Docente** | Ing. Lissette Geoconda López Faicán |
-| **Estudiante** | Pablo Isaías Namicela Maldonado |
+ **Institución**  Universidad Nacional de Loja 
+ **Carrera**  Ingeniería en Ciencias de la Computación 
+ **Asignatura**  Programación en C++ 
+ **Ciclo y Paralelo**  1er Ciclo — Paralelo A 
+ **Período Académico**  Abril — Agosto 2026 
+ **Docente**  Ing. Lissette Geoconda López Faicán 
+ **Estudiante**  Pablo Isaías Namicela Maldonado 
 
 ---
 
