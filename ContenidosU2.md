@@ -7,8 +7,9 @@
 
 ---
 
-## 📂 *Topics*:
+## 📂 *Topics:*
  
+---
 
 ### 1. [📖 *Estructuras Condicionales*](U2/Estructurascondicionales.md)
 
