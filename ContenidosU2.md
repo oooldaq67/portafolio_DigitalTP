@@ -15,7 +15,7 @@
 
 ---
 
-### 2. [📊 *Ejercicios Resueltos*](Contenidos/ejercicios.md)
+### 2. [📖 *Estructuras Repetitivas*](U2/Estructurasrepetitivas.md)
 
 ---
 
