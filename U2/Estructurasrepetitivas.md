@@ -5,7 +5,7 @@
 
 ## *Ciclo Mientras (While)*
 
-Evalúa la condición **antes** de entrar al bloque. Si es falsa desde el inicio, el bloque nunca se ejecuta.
+>Evalúa la condición **antes** de entrar al bloque. Si es falsa desde el inicio, el bloque nunca se ejecuta.
 
 ### *Pseudocódigo*
 
@@ -35,7 +35,7 @@ while (i <= 5) {
 }
 ```
 
-
+### *Diagrama de Flujo*
 
 <img width="753" height="562" alt="image" src="https://github.com/user-attachments/assets/62bd2c1d-5c0d-4c33-862a-b0edf959a36f" />
 
@@ -43,7 +43,7 @@ while (i <= 5) {
 
 ## *Ciclo Hacer…Mientras (Do…While)*
 
-El bloque se ejecuta **al menos una vez**, porque la condición se evalúa al final.
+>El bloque se ejecuta **al menos una vez**, porque la condición se evalúa al final.
 
 ### *Pseudocódigo*
 
@@ -73,7 +73,7 @@ do {
 } while (i <= 5);
 ```
 
-
+### *Diagrama de Flujo*
 
 <img width="941" height="570" alt="image" src="https://github.com/user-attachments/assets/88996c8f-0589-4bcb-afad-8424eb2b9b07" />
 
@@ -82,7 +82,7 @@ do {
 
 ## *Ciclo Para (For)*
 
-Se usa cuando se conoce de antemano el número exacto de repeticiones. El contador se inicializa, verifica y actualiza en una sola línea.
+>Se usa cuando se conoce de antemano el número exacto de repeticiones. El contador se inicializa, verifica y actualiza en una sola línea.
 
 ### *Pseudocódigo*
 
@@ -109,6 +109,19 @@ for (int i = 1; i <= 5; i++) {
     printf("%d\n", i);
 }
 ```
+### *Diagrama de Flujo*
+
+
+
+---
+### [*⬅️ Volver a Unidad 2*](../ContenidosU2.md)
+
+<div align="center">
+  <sub>Pablo Namicela &nbsp;·&nbsp; Teoria de la Programación &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
+</div>
 
 ---
 
+<div align="center">
+  <sub>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables &nbsp;·&nbsp; Loja, Ecuador &nbsp;·&nbsp; 2026</sub>
+</div>
