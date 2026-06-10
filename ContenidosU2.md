@@ -3,7 +3,7 @@
   <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" width="280" alt="Logo UNL"/>
 </p>
 
-# *Unidad 1*:
+# *Unidad 2*:
 
 ---
 
