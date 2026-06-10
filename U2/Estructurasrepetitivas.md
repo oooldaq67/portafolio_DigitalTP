@@ -5,7 +5,7 @@
 
 ## *Ciclo Mientras (While)*
 
->Evalúa la condición **antes** de entrar al bloque. Si es falsa desde el inicio, el bloque nunca se ejecuta.
+>*Evalúa la condición **antes** de entrar al bloque. Si es falsa desde el inicio, el bloque nunca se ejecuta.*
 
 ### *Pseudocódigo*
 
@@ -43,7 +43,7 @@ while (i <= 5) {
 
 ## *Ciclo Hacer…Mientras (Do…While)*
 
->El bloque se ejecuta **al menos una vez**, porque la condición se evalúa al final.
+>*El bloque se ejecuta **al menos una vez**, porque la condición se evalúa al final.*
 
 ### *Pseudocódigo*
 
@@ -82,7 +82,7 @@ do {
 
 ## *Ciclo Para (For)*
 
->Se usa cuando se conoce de antemano el número exacto de repeticiones. El contador se inicializa, verifica y actualiza en una sola línea.
+>*Se usa cuando se conoce de antemano el número exacto de repeticiones. El contador se inicializa, verifica y actualiza en una sola línea.*
 
 ### *Pseudocódigo*
 
