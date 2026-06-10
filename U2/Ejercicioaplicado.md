@@ -4,7 +4,7 @@
 
 ## 1. Planteamiento del Problema
 
->Desarrollar un programa en lenguaje C que calcule la nota final de una unidad para un grupo de estudiantes. El programa debe solicitar el número de estudiantes, leer las cuatro notas de cada uno (ACD, AA, APE y ES), validar que cada nota esté entre 0 y 10, calcular la nota ponderada final y mostrar el nivel de desempeño correspondiente.
+>*Desarrollar un programa en lenguaje C que calcule la nota final de una unidad para un grupo de estudiantes. El programa debe solicitar el número de estudiantes, leer las cuatro notas de cada uno (ACD, AA, APE y ES), validar que cada nota esté entre 0 y 10, calcular la nota ponderada final y mostrar el nivel de desempeño correspondiente.*
 
 ---
 
