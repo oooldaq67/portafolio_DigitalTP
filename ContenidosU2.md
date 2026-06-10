@@ -24,41 +24,39 @@
 
 ---
 
-### 5. 🔍 *Reflexión Personal*
- 
 <details>
-<summary><b>¿Qué fue lo más difícil de entender?</b></summary>
-
+<summary><b> 4. 🔍 Reflexión Personal </b></summary>
 <br>
 
-El concepto que más tiempo me tomó entender fue el **condicional lógico** ($p \to q$). Intuitivamente, me parece contradictorio que una implicación pueda ser verdadera cuando la premisa es falsa, independientemente del consecuente. ¿Cómo puede ser verdad "si llueve, me mojo" cuando simplemente no llueve?
- 
-La clave para mí fue entenderlo no como una relación causal, sino como una **promesa**: la implicación solo se "rompe" si la premisa se cumple y la conclusión no. Si la premisa nunca ocurre, la "promesa" jamás fue puesta a prueba, por lo tanto sigue siendo válida. Una vez que mentalicé esa perspectiva, el condicional comenzó a tener sentido.
- 
-</details>
+### Dificultades encontradas
 
-<details>
-<summary><b>¿Qué tema comprendí mejor?</b></summary>
- 
-<br>
+- **Confundir `=` con `==`:** Asignar un valor dentro de una condición en lugar de
+  compararlo es un error lógico frecuente que no siempre genera un mensaje de error,
+  pero altera el comportamiento del programa de forma silenciosa.
 
-Las **tablas de verdad** fueron el tema más claro, ya que permiten visualizar sistemáticamente todos los posibles casos. Una vez entendida la estructura, construirlas se vuelve mecánico y predecible.
- 
-</details>
+- **Bucles infinitos:** Olvidar actualizar la variable de control en un `while`
+  produce una ejecución que nunca termina. Identificar la **condición de parada**
+  antes de escribir el bucle es una práctica esencial.
 
-<details>
-<summary><b>¿Cómo puedo aplicar la lógica en mi carrera?</b></summary>
- 
-<br>
+- **Orden en cadenas `else if`:** Las condiciones se evalúan en secuencia; una
+  condición mal ordenada puede hacer que ciertos casos nunca sean alcanzados
+  (*código muerto*).
 
-La lógica proposicional tiene aplicaciones directas en:
- 
-- **Programación:** las estructuras `if`, `while`, `AND`, `OR`, `NOT` son exactamente conectores lógicos.
-- **Bases de datos:** las consultas SQL usan condiciones lógicas (`WHERE`, `AND`, `OR`).
-- **Diseño de sistemas:** modelar reglas de negocio y flujos de decisión.
-- **Ciberseguridad:** validación de condiciones de acceso y permisos.
-- **Inteligencia artificial:** sistemas expertos basados en reglas lógicas.
-  
+- **`do / while` vs `while`:** Determinar cuándo es necesario garantizar al menos
+  una ejecución requiere analizar con cuidado las precondiciones del problema.
+
+### Reflexión crítica
+
+Estudiar estas estructuras desde la perspectiva de la lógica proposicional cambia
+la forma de escribirlas. Una condición compuesta como `!(a && b)` no es solo
+sintaxis: es la Ley de De Morgan, equivalente a `!a || !b`. Reconocer esa
+equivalencia permite simplificar expresiones y reducir errores.
+
+Del mismo modo, un bucle no es simplemente "repetir algo": es una proposición que
+debe ser verdadera al inicio, mantenerse como **invariante** en cada iteración y
+volverse falsa en un punto definido. Pensar así convierte el diseño de bucles en
+un ejercicio de razonamiento formal, no de prueba y error.
+
 </details>
 
 ---
