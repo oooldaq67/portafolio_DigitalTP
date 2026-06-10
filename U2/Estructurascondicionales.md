@@ -32,6 +32,9 @@ if (edad >= 18) {
     printf("Eres mayor de edad\n");
 }
 ```
+### *Diagrama de Flujo*
+
+<img width="530" height="295" alt="image" src="https://github.com/user-attachments/assets/8d64079c-b1a8-4a24-9212-c069bdd1c5cb" />
 
 ---
 
@@ -68,6 +71,9 @@ if (nota >= 10) {
     printf("Reprobado\n");
 }
 ```
+### *Diagrama de Flujo*
+
+<img width="686" height="325" alt="image" src="https://github.com/user-attachments/assets/02036f8f-c384-4d7e-8091-ac1b362735f3" />
 
 ---
 
@@ -116,6 +122,9 @@ if (nota >= 18) {
     printf("Reprobado\n");
 }
 ```
+### *Diagrama de Flujo*
+
+<img width="686" height="325" alt="image" src="https://github.com/user-attachments/assets/02036f8f-c384-4d7e-8091-ac1b362735f3" />
 
 ---
 
@@ -162,6 +171,11 @@ switch (dia) {
         printf("Otro día\n");
 }
 ```
+### *Diagrama de Flujo*
+
+<img width="678" height="372" alt="image" src="https://github.com/user-attachments/assets/52e806cc-c3c2-4138-877a-e2bc5d77c881" />
+
+
 ### [*⬅️ Volver a Unidad 2*](../ContenidosU2.md)
 
 <div align="center">
