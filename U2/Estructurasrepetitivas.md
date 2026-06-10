@@ -111,6 +111,7 @@ for (int i = 1; i <= 5; i++) {
 ```
 ### *Diagrama de Flujo*
 
+<img width="672" height="655" alt="image" src="https://github.com/user-attachments/assets/b55b5f74-7062-4da2-8927-9e6a89055ed4" />
 
 
 ---
