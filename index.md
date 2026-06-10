@@ -32,7 +32,7 @@
 
 ---
 
->### [*Unidad 2*](ContenidosU2.md)* 
+### [*Unidad 2*](ContenidosU2.md)
 
 ---
 
