@@ -19,7 +19,7 @@
 
 ---
 
-### 3. [🧠 *Ejercicio Aplicado — Caso Real*](Contenidos/ejercicioAplicado.md)
+### 3. [🧠 *Ejercicio Aplicado*](U2/EjercicioAplicado.md)
 
 
 ---
