@@ -124,7 +124,7 @@ if (nota >= 18) {
 ```
 ### *Diagrama de Flujo*
 
-<img width="686" height="325" alt="image" src="https://github.com/user-attachments/assets/02036f8f-c384-4d7e-8091-ac1b362735f3" />
+<img width="522" height="632" alt="image" src="https://github.com/user-attachments/assets/9bc8ea24-615c-44b8-a232-2bd982d452dd" />
 
 ---
 
