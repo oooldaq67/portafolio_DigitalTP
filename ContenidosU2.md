@@ -19,7 +19,7 @@
 
 ---
 
-### 3. [🧠 *Ejercicio Aplicado*](U2/EjercicioAplicado.md)
+### 3. [🧠 *Ejercicio Aplicado*](U2/Ejercicioaplicado.md)
 
 
 ---
