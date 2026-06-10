@@ -48,38 +48,45 @@
 
 <details>
 <summary><b>📚 Bibliografía (Formato IEEE)</b></summary>
-
 <br>
 
-[1] O. Levin, *Discrete Mathematics: An Open Introduction*, 4.ª ed. Greeley, CO: University of Northern Colorado, 2022. [En línea]. Disponible en: https://discrete.openmathbooks.org
+[1] A. B. Downey, *Think Python: How to Think Like a Computer Scientist*, 2.ª ed.
+Sebastopol, CA: O'Reilly Media, 2015. [En línea]. Disponible en:
+https://greenteapress.com/thinkpython2
 
-[2] R. P. Grimaldi, *Matemáticas Discreta y Combinatoria*, 5.ª ed. México: Pearson Educación, 2006.
+[2] D. E. Knuth, *The Art of Computer Programming, Vol. 1: Fundamental Algorithms*,
+3.ª ed. Reading, MA: Addison-Wesley, 1997.
 
-[3] M. E. Cueva Hurtado, *Guía de Actividades Práctico-Experimentales (APE): Unidad 1 — Lógica Proposicional*, Loja, Ecuador: Universidad Nacional de Loja, Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables, 2026.
+[3] B. W. Kernighan y D. M. Ritchie, *The C Programming Language*, 2.ª ed.
+Englewood Cliffs, NJ: Prentice Hall, 1988.
+
+[4] R. Sedgewick y K. Wayne, *Introduction to Programming in Java: An
+Interdisciplinary Approach*, 2.ª ed. Boston, MA: Addison-Wesley, 2017.
+[En línea]. Disponible en: https://introcs.cs.princeton.edu
+
+[5] M. E. Cueva Hurtado, *Guía de Actividades Práctico-Experimentales (APE):
+Unidad 2 — Estructuras Condicionales y Repetitivas*, Loja, Ecuador: Universidad
+Nacional de Loja, Facultad de la Energía, las Industrias y los Recursos Naturales
+No Renovables, 2026.
 
 </details>
 
 <details>
 <summary><b>🤖 Declaración de uso de IA Generativa</b></summary>
-
 <br>
 
-En la elaboración de este portafolio se utilizó **Inteligencia Artificial Generativa** de forma transparente y acotada:
+En la elaboración de esta sección del portafolio se utilizó **Inteligencia
+Artificial Generativa** de forma transparente y acotada:
 
-- **Alcance:** Apoyo en la estructuración de documentos Markdown, revisión ortotipográfica y mejora de la claridad en explicaciones técnicas.
-- **Autoría intelectual:** La resolución de ejercicios, la construcción de tablas de verdad y el razonamiento lógico aplicado son de autoría propia, verificados manualmente.
-- **Principio ético:** La IA actúa como herramienta de presentación y estilo, sin sustituir el proceso de aprendizaje ni el razonamiento exigido por la asignatura.
-
-</details>
-
-<details>
-<summary><b>🧭 Reflexión de formación profesional</b></summary>
-
-<br>
-
-Cursar Matemáticas Discretas implica un cambio de paradigma en la forma de programar. Antes de esta asignatura, escribir código significaba encadenar instrucciones de forma intuitiva; ahora significa construir una cadena de inferencias formalmente verificables.
-
-Entender que un `if` en cualquier lenguaje es una implicación lógica `p → q`, o que una expresión booleana compleja puede simplificarse con las leyes de De Morgan, transforma al programador en un ingeniero que diseña con precisión. Esta base es indispensable en áreas como verificación formal de software, inteligencia artificial o criptografía, donde un error lógico no es un *bug* menor, sino una vulnerabilidad crítica.
+- **Alcance:** Apoyo en la estructuración de contenidos en formato Markdown,
+  revisión ortotipográfica y apoyo en la redacción de explicaciones técnicas
+  sobre estructuras condicionales y repetitivas.
+- **Autoría intelectual:** La comprensión de los conceptos, la selección de
+  ejemplos relevantes y la conexión con los contenidos de la asignatura son
+  de autoría propia, verificados mediante las fuentes bibliográficas citadas.
+- **Principio ético:** La IA actúa como herramienta de presentación y estilo,
+  sin sustituir el proceso de aprendizaje ni el razonamiento exigido por la
+  asignatura.
 
 </details>
 
