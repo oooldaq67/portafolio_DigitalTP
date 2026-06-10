@@ -21,9 +21,6 @@
 
 ### 3. [🧠 *Ejercicio Aplicado — Caso Real*](Contenidos/ejercicioAplicado.md)
 
----
-
-### 4. [*Trabajos Unidad 1*](Contenidos/trabajosU1.md)
 
 ---
 
