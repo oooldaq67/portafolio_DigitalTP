@@ -7,9 +7,8 @@
 
 ---
 
-## 📂 Descripción de la Actividad:
+## 📂 *Topics*:
  
->El estudiante elaborará un *portafolio individual* que recopile los contenidos trabajados en la unidad:
 
 ### 1. [📖 *Estructuras Condicionales*](U2/Estructurascondicionales.md)
 
