@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Condicional simple (Si–Entonces)
+## 1. Condicional simple if (Si–Entonces) 
 
 >*Ejecuta un bloque de instrucciones **únicamente si** la condición es verdadera. Si es falsa, no hace nada y continúa.*
 
@@ -38,7 +38,7 @@ if (edad >= 18) {
 
 ---
 
-## 2. Condicional doble (Si–Entonces–Sino)
+## 2. Condicional doble if...else (Si–Entonces–Sino)
 
 >*Ofrece **dos caminos alternativos**: uno cuando la condición es verdadera y otro cuando es falsa.*
 
@@ -77,7 +77,7 @@ if (nota >= 10) {
 
 ---
 
-## 3. Condicional anidado (Si–Sino Si)
+## 3. Condicional anidado else if (Si–Sino Si)
 
 >*Se usan cuando hay **más de dos condiciones en cadena**, donde cada alternativa puede contener a su vez otro condicional.*
 
@@ -128,7 +128,7 @@ if (nota >= 18) {
 
 ---
 
-## 4. Condicional múltiple (Según–Sea / Switch–Case)
+## 4. Condicional múltiple Switch–Case (Según–Sea)
 
 >*Evalúa una **variable o expresión** y ejecuta el bloque correspondiente al valor que coincida. Es más limpio que varios Si–Sino Si cuando se compara la misma variable con múltiples valores concretos.*
 
