@@ -1,12 +1,12 @@
 # Estructuras condicionales
 
-Una **estructura condicional** permite que un programa tome decisiones: ejecuta ciertas instrucciones solo si se cumple una condición determinada.
+>Una **estructura condicional** permite que un programa tome decisiones: ejecuta ciertas instrucciones solo si se cumple una condición determinada.
 
 ---
 
 ## 1. Condicional simple (Si–Entonces)
 
-Ejecuta un bloque de instrucciones **únicamente si** la condición es verdadera. Si es falsa, no hace nada y continúa.
+>Ejecuta un bloque de instrucciones **únicamente si** la condición es verdadera. Si es falsa, no hace nada y continúa.
 
 ### *Pseudocódigo*
 
@@ -36,7 +36,7 @@ if (edad >= 18) {
 
 ## 2. Condicional doble (Si–Entonces–Sino)
 
-Ofrece **dos caminos alternativos**: uno cuando la condición es verdadera y otro cuando es falsa.
+>Ofrece **dos caminos alternativos**: uno cuando la condición es verdadera y otro cuando es falsa.
 
 ### *Pseudocódigo*
 
@@ -72,7 +72,7 @@ if (nota >= 10) {
 
 ## 3. Condicional anidado (Si–Sino Si)
 
-Se usan cuando hay **más de dos condiciones en cadena**, donde cada alternativa puede contener a su vez otro condicional.
+>Se usan cuando hay **más de dos condiciones en cadena**, donde cada alternativa puede contener a su vez otro condicional.
 
 ### *Pseudocódigo*
 
@@ -120,7 +120,7 @@ if (nota >= 18) {
 
 ## 4. Condicional múltiple (Según–Sea / Switch–Case)
 
-Evalúa una **variable o expresión** y ejecuta el bloque correspondiente al valor que coincida. Es más limpio que varios Si–Sino Si cuando se compara la misma variable con múltiples valores concretos.
+>Evalúa una **variable o expresión** y ejecuta el bloque correspondiente al valor que coincida. Es más limpio que varios Si–Sino Si cuando se compara la misma variable con múltiples valores concretos.
 
 ### *Pseudocódigo*
 
